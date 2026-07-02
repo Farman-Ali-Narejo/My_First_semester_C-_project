@@ -1,1 +1,1 @@
-# My_First_semester_C-_project
+# My_First_semester_C++_project
